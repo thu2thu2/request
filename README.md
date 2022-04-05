@@ -1,3 +1,7 @@
+# Read this first
+
+ This is a copy of request which removes exposure to CVE-2021-44907.
+
 # Deprecated!
 
 As of Feb 11th 2020, request is fully deprecated. No new changes are expected to land. In fact, none have landed for some time.
